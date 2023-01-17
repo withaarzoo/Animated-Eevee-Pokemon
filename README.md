@@ -23,3 +23,6 @@ You will need a code editor such as Visual Studio Code or Atom and a web browser
 
 ## Author
 - [Aarzoo](https://aarzoo.tk/)
+
+## Preview
+<img width="959" alt="Screenshot_20230118_005719" src="https://user-images.githubusercontent.com/59678435/212995934-21b641ca-54df-4851-a7b4-d1634a76f730.png">
