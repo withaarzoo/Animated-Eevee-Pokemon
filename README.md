@@ -1,5 +1,5 @@
 # Animated Eevee Pokemon
-An interactive and animated Eevee Pokemon using HTML and CSS
+An interactive and animated Eevee Pokemon using HTML and CSS.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
